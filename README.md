@@ -7,7 +7,7 @@
 ## <picture><img src = "https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/about_me.gif" width = 50px></picture> **About me**
 <br>
 
-- A passionate Self-taught Front-end developer
+- A passionate Self-taught Fullstack developer
 - Currently pursuing bachelors in Electronics Engineering in Thapathali Engineering Campus
 - Personal website [link](https://github.com/iamshishirgaire)
 - I’m currently open for a Junior Developer opportunity, this is [my resume](https://read.cv/iamshishirgaire)
