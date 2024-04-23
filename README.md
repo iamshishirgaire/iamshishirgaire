@@ -59,9 +59,9 @@
 ## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="35"><b> Github Stats </b>
 <br>
 
-![AkuraDiary's github stats](https://github-readme-stats.vercel.app/api?username=iamshishirgaire&show_icons=true&theme=tokyonight)
+![Shishir Gaire's github stats](https://github-readme-stats.vercel.app/api?username=iamshishirgaire&show_icons=true&theme=tokyonight)
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=iamshishirgaire&theme=tokyonight" alt="mystreak"/>
-![AkuraDiary's Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=iamshishirgaire&theme=tokyonight&layout=compact)
+![Shishir Gaire's Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=iamshishirgaire&theme=tokyonight&layout=compact)
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=iamshishirgaire&label=Profile%20views&color=0e75b6&style=flat" alt="iamshishirgaire" /> </p>
  <p><b>Let's Connect..!</b> <img src="https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/handshake.gif" width ="80"></p>
 
