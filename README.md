@@ -1,4 +1,4 @@
-postgresql://iamshishirgaire:3aWPv5BRYLAm@ep-rapid-grass-a1q8c1uo-pooler.ap-southeast-1.aws.neon.tech/nestDB?sslmode=require
+
 <h1 align="center"><b>Hi , I'm Shishir Gaire </b><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
 
 
