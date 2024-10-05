@@ -6,9 +6,15 @@
 
 
 ## 🌐 Socials:
-[![](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/shishir-gaire-157a15261) 
-[![](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/ShishirGaire5) 
-[![](https://img.shields.io/badge/gmail-red.svg?logo=X&logoColor=white)](mailto:shishirgaire35@gmail.com) 
+<a href="mailto:shishirgaire35@gmail.com">
+  <img src="https://img.icons8.com/fluency/48/000000/gmail.png" alt="Email" width="40" height="40"/>
+</a>
+<a href="https://x.com/ShishirGaire5">
+  <img src="https://img.icons8.com/fluency/48/000000/twitter.png" alt="X" width="40" height="40"/>
+</a>
+<a href="https://linkedin.com/in/shishir-gaire-157a15261">
+  <img src="https://img.icons8.com/fluency/48/000000/linkedin.png" alt="LinkedIn" width="40" height="40"/>
+</a>
 
 
 ### **🖥️ Programming Languages:**
