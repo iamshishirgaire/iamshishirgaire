@@ -1,7 +1,7 @@
 # 💫 About Me:
  A passionate Self-taught Fullstack developer<br>
  Currently pursuing bachelors in Electronics Engineering in Thapathali Engineering Campus<br>
- Personal website [link](https://portfolio-shishir-one.vercel.app/)<br>
+ Personal website [link](https://shishir-portfolio-new.vercel.app/)<br>
  Upwork [link](https://www.upwork.com/freelancers/~01a134b58433c815e1)<br>
  I’m currently open for a Junior Developer opportunity, this is [my resume](https://github.com/iamshishirgaire/iamshishirgaire/blob/main/shishir-resume.pdf)<br>
 
