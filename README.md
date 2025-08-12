@@ -9,7 +9,8 @@
 
 - A passionate Self-taught Fullstack developer
 - Currently pursuing bachelors in Electronics Engineering in Thapathali Engineering Campus
-- Personal website [link](https://portfolio-shishir-one.vercel.app/)
+- Personal website [link](https://shishir-portfolio-new.vercel.app/)
+- Upwork link [link](https://www.upwork.com/freelancers/~01a134b58433c815e1) 
 - I’m currently open for a Junior Developer opportunity, this is [my resume](https://github.com/iamshishirgaire/iamshishirgaire/blob/main/shishir-resume.pdf)
 
 
@@ -22,6 +23,8 @@
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="JavaScript" width="40" height="40"/>
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="TypeScript" width="40" height="40"/>
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/azuresqldatabase/azuresqldatabase-original.svg" height="40" width="40"/>
+     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/dart/dart-original.svg" height="40" width="40"/>
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/go/go-original.svg" height="40" width="40"/>
     
 </p>
 
@@ -33,9 +36,7 @@
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/express/express-original.svg" height="40" width="40"/>
     <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="Tailwind CSS" width="40" height="40"/>
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nodejs/nodejs-original-wordmark.svg" height="40" width="40"/>
-      <img src="https://pbs.twimg.com/profile_images/1767809210060877824/mAtEmNk0_400x400.jpg" alt="DrizzleOrm" width="40" height="40"/>
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/prisma/prisma-original.svg" height="40" width="40" />
-     <img src="https://www.vectorlogo.zone/logos/graphql/graphql-icon.svg" alt="GraphQL" width="40" height="40"/>
 
 </p>
 
